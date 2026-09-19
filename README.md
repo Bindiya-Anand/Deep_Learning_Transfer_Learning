@@ -65,3 +65,13 @@ Dense (256, ReLU)
 Dropout (0.2)
         ↓
 Dense (102, Softmax)
+
+**## Experiments**
+Six transfer-learning strategies were evaluated:
+Experiment	Strategy	Test Accuracy
+A	Total Freeze / Evaluation Only	0.33%
+B	Feature Extraction	26.51%
+C	Partial Unfreezing (conv5 + head)	34.25%
+D	Fine-Tuning (conv4 + conv5 + head)	47.28%
+E	Full Unfreezing	23.74%
+F	Gradual Unfreezing (ULMFiT)	34.41%

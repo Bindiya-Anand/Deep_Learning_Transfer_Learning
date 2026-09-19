@@ -134,6 +134,9 @@ Transfer-Learning/
 
 ## Academic Context
 **Deep Learning Mini Project**
-MSc Computer Science – Artificial Intelligence & Machine Learning
+
+MSc Computer Science - Artificial Intelligence & Machine Learning
+
 South Asian University, New Delhi
+
 2026

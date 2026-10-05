@@ -1,4 +1,4 @@
-# Transfer Learning
+# Deep Learning Project - Transfer Learning
 Transfer Learning with ResNet50
 
 ### Evaluating Freezing and Unfreezing Strategies for Image Classification

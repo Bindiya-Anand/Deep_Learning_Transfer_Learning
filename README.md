@@ -95,8 +95,7 @@ The project includes visualisations for:
 - Test accuracy across freezing strategies
 - Validation accuracy learning curves
 - Gradual-unfreezing phase analysis
-- Training vs. validation accuracy
-- Overfitting analysis
+- Training vs. validation accuracy - Overfitting check
 
 <details>
 <summary><b>Visualizations</b></summary>

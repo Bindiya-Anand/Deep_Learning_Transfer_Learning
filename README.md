@@ -98,7 +98,22 @@ The project includes visualisations for:
 - Training vs. validation accuracy
 - Overfitting analysis
 
-These visualisations are included in the ```results/``` directory.
+<details>
+<summary><b>Visualizations</b></summary>
+
+**Accuracy Comparison**
+![Accuracy Comparison](results/accuracy_comparison.png)
+
+**Validation Accuracy Learning Curve**
+![Validation Accuracy Learning Curve](results/learning_curve.png)
+
+**Gradual Unfreezing**
+![Gradual Unfreezing](results/gradual_unfreezing.png)
+
+**Training vs. Validation Accuracy**
+![Training vs. Validation Accuracy](results/training_vs_validation.png)
+
+</details>
 
 ## Key Findings
 - Pretrained ImageNet representations transferred effectively to the flower-classification task.
